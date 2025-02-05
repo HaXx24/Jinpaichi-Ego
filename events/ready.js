@@ -9,7 +9,7 @@ module.exports = {
             { name: 'Blue Lock', type: ActivityType.Watching },
             { name: 'Calcio', type: ActivityType.Playing },
             { name: 'Blue Lock TV', type: ActivityType.Streaming },
-            { name: 'Ego music', type: ActivityType.Listening },
+            { name: 'Ego Music', type: ActivityType.Listening },
         ];
 
      
